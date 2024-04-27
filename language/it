@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+	<texts>
+		<text name="menu_LUMBERJACK_TITLE" text="Taglialegna"/>
+		<text name="menu_TOGGLE_STRENGTH" text="Super Forza"/>
+		<text name="input_LUMBERJACK_STRENGTH" text="Super Forza"/>
+		<text name="text_MASS" text="Massa"/>
+		<text name="text_TONNE" text="Tonnellata"/>
+		<text name="text_KG" text="Kg"/>
+		<text name="text_METRE" text="Mt"/>
+		<text name="text_SECOND" text="Sec"/>
+		<text name="text_INFINITE" text="Infinito"/>
+		
+		<text name="permission_lumberJack_superSpeed" text="Velocità di taglio"/>
+		<text name="permission_lumberJack_superStrength" text="Forza Taglialegna"/>
+		<text name="permission_lumberJack_chainsawSettings" text="Motosega Taglialegna"/>
+				
+		<text name="setting_lumberJack_cutAnywhere" text="Taglia ovunque"/>
+		<text name="toolTip_lumberJack_cutAnywhere" text="Il giocatore può usare la motosega ovunque sulla mappa."/>
+		
+		<text name="setting_lumberJack_createWoodchips" text="Crea trucioli"/>
+		<text name="toolTip_lumberJack_createWoodchips" text="Crea trucioli di legno di quando tagli alberi e/o macini i ceppi."/>
+		
+		<text name="setting_lumberJack_maxCutDistance" text="Distanza taglio motosega"/>
+		<text name="toolTip_lumberJack_maxCutDistance" text="Distanza massima per tagliare con la motosega."/>
+		
+		<text name="setting_lumberJack_defaultCutDuration" text="Durata del taglio"/>
+		<text name="toolTip_lumberJack_defaultCutDuration" text="Tempo in secondi per il taglio con la motosega."/>
+		
+		<text name="setting_lumberJack_superStrengthValue" text="Valore Super Forza"/>
+		<text name="toolTip_lumberJack_superStrengthValue" text="Peso massimo che puoi sollevare con la super forza attiva."/>
+		
+		<text name="setting_lumberJack_normalStrengthValue" text="Valore normale Super Forza"/>
+		<text name="toolTip_lumberJack_normalStrengthValue" text="Peso massimo che puoi sollevare con forza normale."/>
+		
+		<text name="setting_lumberJack_superDistanceValue" text="Distanza Super Forza"/>
+		<text name="toolTip_lumberJack_superDistanceValue" text="Distanza che puoi raggiungere con la super forza attiva."/>
+		
+		<text name="setting_lumberJack_normalDistanceValue" text="Distanza Forza normale"/>
+		<text name="toolTip_lumberJack_normalDistanceValue" text="Distanza che puoi raggiungere con la forza normale."/>
+		
+		<text name="setting_lumberJack_maxWalkingSpeed" text="Velocità camminata"/>
+		<text name="toolTip_lumberJack_maxWalkingSpeed" text="Velocità di camminata del giocatore."/>
+		
+		<text name="setting_lumberJack_maxRunningSpeed" text="Velocità corsa"/>
+		<text name="toolTip_lumberJack_maxRunningSpeed" text="Velocità della corsa del giocatore."/>
+		
+    </texts>
+</l10n>
